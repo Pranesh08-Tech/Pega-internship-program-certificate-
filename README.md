@@ -1,2 +1,2 @@
 # Pega-internship-program-certificate-
-..
+Successfully completed the Pega National Internship Program in collaboration with SmartBridge, gaining hands-on experience in workflow automation and low-code application development. During the internship, I developed a Movie Ticket Booking Management System using Pega Blueprint and Pega App Studio, applying low-code concepts to a real-world use case. This experience strengthened my practical knowledge of Pega technologies and business application development.
